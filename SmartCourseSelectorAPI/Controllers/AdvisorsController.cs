@@ -96,5 +96,19 @@ namespace SmartCourseSelectorWeb.Controllers
         {
             return _context.Advisors.Any(e => e.AdvisorID == id);
         }
+        // GET: approve
+        [HttpGet]
+        public IActionResult ApproveCourses()
+        {
+            return View();
+        }
+
+        // POST: approvee
+        [HttpPost("ApproveCourses")]
+        public async Task<IActionResult> ApproveCourses(LoginViewModel model)
+        {
+            return View(model);
+        }
     }
+
 }
