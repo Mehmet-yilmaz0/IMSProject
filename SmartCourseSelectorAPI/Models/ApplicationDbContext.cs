@@ -12,6 +12,8 @@ namespace SmartCourseSelectorWeb.Models
         public DbSet<Course> Courses { get; set; }
         public DbSet<StudentCourseSelection> StudentCourseSelections { get; set; }
         public DbSet<Transcript> Transcripts { get; set; }
+        public DbSet<CourseQuota> CourseQuotas { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
