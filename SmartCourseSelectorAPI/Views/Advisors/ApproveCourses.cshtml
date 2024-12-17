@@ -17,7 +17,7 @@
 
     <hr />
 
-    @if (Model.Students == null || !Model.Students.Any())
+    @if (Model.CourseStudents == null || !Model.CourseStudents.Any())
     {
         <div class="alert alert-warning">
             No students are assigned to you.
@@ -36,7 +36,7 @@
                 </tr>
             </thead>
             <tbody>
-                @foreach (var student in Model.Students)
+                @foreach (var student in Model.CourseStudents)
                 {
                     <tr>
                         <td>@student.FirstName @student.LastName</td>

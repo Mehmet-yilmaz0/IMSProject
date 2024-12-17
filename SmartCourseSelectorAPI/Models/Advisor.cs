@@ -9,6 +9,7 @@
         public string Email { get; set; } // E-posta (Unique)
 
         // Navigation Property
+        public ICollection<Student> CourseStudents { get; set; } 
         public ICollection<Student> Students { get; set; } // Danışmana bağlı öğrenciler
     }
 }
