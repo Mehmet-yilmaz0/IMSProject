@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using SmartCourseSelectorWeb.Migrations;
 using SmartCourseSelectorWeb.Models;
 
 namespace SmartCourseSelectorWeb.Controllers
