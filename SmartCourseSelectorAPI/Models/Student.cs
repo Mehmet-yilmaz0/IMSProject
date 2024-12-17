@@ -10,9 +10,7 @@
         public DateTime EnrollmentDate { get; set; }
         public string Department { get; set; } 
 
-  
-        public Advisor Advisor { get; set; } 
-
+        public Advisor Advisor { get; set; }
         public ICollection<StudentCourseSelection> StudentCourseSelections { get; set; } = new List<StudentCourseSelection>();
     }
 }
