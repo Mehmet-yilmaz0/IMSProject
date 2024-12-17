@@ -73,7 +73,7 @@ namespace SmartCourseSelectorWeb.Controllers.WebController
                     var data = await response.Content.ReadAsStringAsync();
 
                     // API'den gelen JSON verisini Lesson modeline deserialize ediyoruz
-                    var lessons = JsonConvert.DeserializeObject<List<StudentCourseSelections>>(data);
+                    var lessons = JsonConvert.DeserializeObject<List<StudentCourseSelection>>(data);
 
                     // Veriyi View'a gönderiyoruz
                     return View(lessons);
@@ -285,3 +285,4 @@ namespace SmartCourseSelectorWeb.Controllers.WebController
         }
 
     }
+}

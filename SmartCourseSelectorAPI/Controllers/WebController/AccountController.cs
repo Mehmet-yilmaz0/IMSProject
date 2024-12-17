@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using SmartCourseSelectorWeb.Models;
 
-namespace SmartCourseSelectorWeb.Controllers
+namespace SmartCourseSelectorWeb.Controllers.WebController
 {
     [Controller]
     public class AccountController : Controller

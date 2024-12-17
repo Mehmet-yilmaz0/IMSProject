@@ -14,14 +14,14 @@ namespace SmartCourseSelectorWeb.Models
         public DbSet<Transcript> Transcripts { get; set; }
         public DbSet<CourseQuota> CourseQuotas { get; set; }
         public DbSet<CourseSelectionHistory> CourseSelectionHistory { get; set; }
-
+        public DbSet<NonConfirmedSelections> NonConfirmedSelections { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 
             modelBuilder.Entity<StudentCourseSelection>(entity =>
             {
-                entity.HasKey(e => e.SelectionID); 
+                entity.HasKey(e => e.SelectionID);
                 entity.HasOne(e => e.Student)
                       .WithMany(s => s.StudentCourseSelections)
                       .HasForeignKey(e => e.StudentID);

@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using SmartCourseSelectorWeb.Models;
+
 
 namespace SmartCourseSelectorWeb.Controllers
 {
@@ -7,9 +9,9 @@ namespace SmartCourseSelectorWeb.Controllers
     [ApiController]
     public class NonConfirmedSelectionsController : ControllerBase
     {
-        private readonly RepositoryDbContext _context;
+        private readonly ApplicationDbContext _context;
 
-        public NonConfirmedSelectionsController(RepositoryDbContext context)
+        public NonConfirmedSelectionsController(ApplicationDbContext context)
         {
             _context = context;
         }
