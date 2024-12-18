@@ -1,0 +1,95 @@
+﻿@model IEnumerable<SmartCourseSelectorWeb.Models.Course>
+
+@{
+    ViewData["Title"] = "Course Selection";
+}
+
+<link href="~/css/CoursesSelection.css" rel="stylesheet" />
+
+<style>
+    .content-container {
+        background: #f8f8f8;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .table-container {
+        margin-top: 20px;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px 0;
+        font-size: 16px;
+        text-align: left;
+    }
+
+        table th, table td {
+            padding: 12px 15px;
+            border: 1px solid #ddd;
+        }
+
+        table th {
+            background-color: yellowgreen;
+            color: #333;
+            font-weight: bold;
+        }
+
+        table tbody tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+        table tbody tr:hover {
+            background-color: #f1f1f1;
+        }
+
+    .btn-primary {
+        background-color: yellowgreen;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        text-align: center;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+        .btn-primary:hover {
+            background-color: yellowgreen;
+        }
+</style>
+
+    <a href="@Url.Action("CourseSelection", "Students")" class="back-link">Back</a>
+   
+        <div class="table-container">
+            <form method="post" asp-action="SubmitSelectedCourses" asp-controller="Students">
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>Course Name</th>
+                            <th>Mandatory</th>
+                            <th>Credit</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var selection in Model)
+                        {
+                            <tr>
+                                <td>@selection.CourseName</td>
+                                <td>@(selection.IsMandatory ? "1" : "0")</td>
+                                <td>@selection.Credit</td>
+                                <td>
+                                    <input type="checkbox" name="SelectedCourseIds" value="@selection.CourseID" />
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                <div class="form-group">
+                    <input type="submit" value="Submit Selection" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+</div>
