@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\studentims\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|solutionrelative:studentims\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\studentims\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|solutionrelative:studentims\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\studentims\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|solutionrelative:studentims\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\studentims\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|solutionrelative:studentims\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\studentims\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|solutionrelative:studentims\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\studentims\\model\\selectedcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|solutionrelative:studentims\\model\\selectedcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\studentims\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|solutionrelative:studentims\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\studentims\\model\\advisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD5E96C-6C93-4821-AB29-2A172E2345B9}|StudentIMS\\StudentIMS.csproj|solutionrelative:studentims\\model\\advisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\Startup.cs",
+              "RelativeDocumentMoniker": "StudentIMS\\Startup.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\Startup.cs",
+              "RelativeToolTip": "StudentIMS\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:18:38.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentIMS\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\appsettings.json",
+              "RelativeToolTip": "StudentIMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-16T22:17:48.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Advisor.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\model\\Advisor.cs",
+              "RelativeDocumentMoniker": "StudentIMS\\model\\Advisor.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\model\\Advisor.cs",
+              "RelativeToolTip": "StudentIMS\\model\\Advisor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:40:57.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SelectedCourse.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\model\\SelectedCourse.cs",
+              "RelativeDocumentMoniker": "StudentIMS\\model\\SelectedCourse.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\model\\SelectedCourse.cs",
+              "RelativeToolTip": "StudentIMS\\model\\SelectedCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:46:35.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\model\\Student.cs",
+              "RelativeDocumentMoniker": "StudentIMS\\model\\Student.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\model\\Student.cs",
+              "RelativeToolTip": "StudentIMS\\model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:46:35.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\model\\User.cs",
+              "RelativeDocumentMoniker": "StudentIMS\\model\\User.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\model\\User.cs",
+              "RelativeToolTip": "StudentIMS\\model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:46:32.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\model\\Course.cs",
+              "RelativeDocumentMoniker": "StudentIMS\\model\\Course.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\model\\Course.cs",
+              "RelativeToolTip": "StudentIMS\\model\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:41:21.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\Program.cs",
+              "RelativeDocumentMoniker": "StudentIMS\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\StudentIMS\\Program.cs",
+              "RelativeToolTip": "StudentIMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T20:28:29.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 363,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

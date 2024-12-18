@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\views\\advisors\\approvecourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\views\\advisors\\approvecourses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\views\\advisors\\allstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\views\\advisors\\allstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\views\\advisors\\alllessons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\views\\advisors\\alllessons.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\views\\advisors\\allusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\views\\advisors\\allusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\views\\advisors\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\views\\advisors\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\models\\nonconfirmedselections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\models\\nonconfirmedselections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\models\\courseselectionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\models\\courseselectionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\models\\coursequotaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\models\\coursequotaresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\models\\coursequota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\models\\coursequota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\models\\advisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\models\\advisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\migrations\\initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\migrations\\initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\dto\\nonconfirmedselectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\dto\\nonconfirmedselectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\controllers\\transcriptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\controllers\\transcriptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\controllers\\studentscourseselectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\controllers\\studentscourseselectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\controllers\\quotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\controllers\\quotascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\controllers\\nonconfirmedselectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\controllers\\nonconfirmedselectionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\controllers\\courseselectionhistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\controllers\\courseselectionhistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\controllers\\advisorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\controllers\\advisorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\controllers\\webcontroller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\controllers\\webcontroller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\controllers\\webcontroller\\advisorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\controllers\\webcontroller\\advisorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\controllers\\webcontroller\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\controllers\\webcontroller\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|c:\\users\\asus\\desktop\\for class\\veri taban\u0131\\_bys\\smartcourseselectorapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{647E8FBF-9AC9-4062-A623-684057D050BE}|SmartCourseSelectorAPI\\SmartCourseSelectorWeb.csproj|solutionrelative:smartcourseselectorapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseSelectionHistory.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Models\\CourseSelectionHistory.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Models\\CourseSelectionHistory.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Models\\CourseSelectionHistory.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Models\\CourseSelectionHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:33:30.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NonConfirmedSelections.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Models\\NonConfirmedSelections.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Models\\NonConfirmedSelections.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Models\\NonConfirmedSelections.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Models\\NonConfirmedSelections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:40:16.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Models\\Student.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T22:33:22.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Views\\Advisors\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Views\\Advisors\\AddUser.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Views\\Advisors\\AddUser.cshtml",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Views\\Advisors\\AddUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T14:17:11.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllLessons.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Views\\Advisors\\AllLessons.cshtml",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Views\\Advisors\\AllLessons.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Views\\Advisors\\AllLessons.cshtml",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Views\\Advisors\\AllLessons.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T14:17:59.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllStudents.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Views\\Advisors\\AllStudents.cshtml",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Views\\Advisors\\AllStudents.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Views\\Advisors\\AllStudents.cshtml*",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Views\\Advisors\\AllStudents.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T14:18:39.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApproveCourses.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Views\\Advisors\\ApproveCourses.cshtml",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Views\\Advisors\\ApproveCourses.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Views\\Advisors\\ApproveCourses.cshtml",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Views\\Advisors\\ApproveCourses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T07:19:46.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Views\\Advisors\\AllUsers.cshtml",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Views\\Advisors\\AllUsers.cshtml",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Views\\Advisors\\AllUsers.cshtml*",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Views\\Advisors\\AllUsers.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T14:19:29.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseQuotaResponse.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Models\\CourseQuotaResponse.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Models\\CourseQuotaResponse.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Models\\CourseQuotaResponse.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Models\\CourseQuotaResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:41:09.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseQuota.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Models\\CourseQuota.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Models\\CourseQuota.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Models\\CourseQuota.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Models\\CourseQuota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:42:11.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:44:50.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Advisor.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Models\\Advisor.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Models\\Advisor.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Models\\Advisor.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Models\\Advisor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:20:44.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Migrations\\InitialCreate.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Migrations\\InitialCreate.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Migrations\\InitialCreate.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Migrations\\InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:39:03.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NonConfirmedSelectionDto.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\DTO\\NonConfirmedSelectionDto.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\DTO\\NonConfirmedSelectionDto.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\DTO\\NonConfirmedSelectionDto.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\DTO\\NonConfirmedSelectionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:12:16.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TranscriptsController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\TranscriptsController.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Controllers\\TranscriptsController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\TranscriptsController.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Controllers\\TranscriptsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:26:22.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentsCourseSelectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\StudentsCourseSelectionsController.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Controllers\\StudentsCourseSelectionsController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\StudentsCourseSelectionsController.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Controllers\\StudentsCourseSelectionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:44:18.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QuotasController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\QuotasController.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Controllers\\QuotasController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\QuotasController.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Controllers\\QuotasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:23:35.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NonConfirmedSelectionsController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\NonConfirmedSelectionsController.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Controllers\\NonConfirmedSelectionsController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\NonConfirmedSelectionsController.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Controllers\\NonConfirmedSelectionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:37:18.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CourseSelectionHistoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\CourseSelectionHistoriesController.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Controllers\\CourseSelectionHistoriesController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\CourseSelectionHistoriesController.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Controllers\\CourseSelectionHistoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:31:00.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:46:44.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdvisorsController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\AdvisorsController.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Controllers\\AdvisorsController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\AdvisorsController.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Controllers\\AdvisorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:19:38.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\WebController\\StudentController.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Controllers\\WebController\\StudentController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\WebController\\StudentController.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Controllers\\WebController\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T14:06:41.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdvisorController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\WebController\\AdvisorController.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Controllers\\WebController\\AdvisorController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\WebController\\AdvisorController.cs*",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Controllers\\WebController\\AdvisorController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:43:34.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\WebController\\AccountController.cs",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Controllers\\WebController\\AccountController.cs",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Controllers\\WebController\\AccountController.cs",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Controllers\\WebController\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T10:42:36.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T08:19:36.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartCourseSelectorAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\Desktop\\for class\\veri taban\u0131\\_BYS\\SmartCourseSelectorAPI\\appsettings.json",
+              "RelativeToolTip": "SmartCourseSelectorAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-17T08:21:31.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 363,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
