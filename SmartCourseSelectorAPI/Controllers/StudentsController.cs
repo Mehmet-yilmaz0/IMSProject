@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using NuGet.Protocol.Plugins;
 using SmartCourseSelectorWeb.Models;
 
 namespace SmartCourseSelectorWeb.Controllers
@@ -23,31 +24,30 @@ namespace SmartCourseSelectorWeb.Controllers
             return View(courses);
         }
         [HttpPost("SubmitSelectedCourses")]
-        public async Task<IActionResult> SubmitSelectedCourses(int studentId, List<int> selectedCourses)
+        public async Task<IActionResult> SubmitSelectedCourses([FromBody]List<string> selectedCourseIds)
         {
-            // Öğrencinin daha önce seçtiği dersleri sil (isteğe bağlı)
-            var existingSelections = await _context.StudentCourseSelections
-                .Where(scs => scs.StudentID == studentId)
-                .ToListAsync();
-
-            _context.StudentCourseSelections.RemoveRange(existingSelections);
-
-            // Yeni seçilen dersleri ekleyelim
-            foreach (var courseId in selectedCourses)
+            if (selectedCourseIds == null || !selectedCourseIds.Any())
             {
-                var courseSelection = new StudentCourseSelection
-                {
-                    StudentID = studentId,
-                    CourseID = courseId
-                };
-
-                _context.StudentCourseSelections.Add(courseSelection);
+                // Hiçbir ders seçilmediyse, 400 Bad Request döndür
+                return BadRequest("No courses selected.");
             }
 
-            // Değişiklikleri kaydet
-            await _context.SaveChangesAsync();
+            try
+            {
+                // Gelen course ID'lerini işleyin (örneğin, veritabanına kaydetme)
+                foreach (var courseId in selectedCourseIds)
+                {
+                    //asd
+                }
 
-            return RedirectToAction("Index", "Home");  // Ana sayfaya yönlendirme
+                // İşlem başarılıysa 200 OK döndür
+                return Ok(new { message = "Courses submitted successfully." });
+            }
+            catch (Exception ex)
+            {
+                // Hata durumunda 500 Internal Server Error döndür
+                return StatusCode(500, $"An error occurred: {ex.Message}");
+            }
         }
 
         [HttpGet("CourseSelection")]
@@ -72,6 +72,7 @@ namespace SmartCourseSelectorWeb.Controllers
             // Öğrenci modelini View'a gönderin
             return View(student); // Student modelini gönderiyoruz
         }
+        
 
 
         // GET: api/Students

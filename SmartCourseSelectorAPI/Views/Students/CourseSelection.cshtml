@@ -8,7 +8,7 @@
 
 <style>
     .content-container {
-        background: #f8f8f8;
+        background-color:lightslategrey;
         padding: 20px;
         border-radius: 10px;
         box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -59,7 +59,7 @@
             background-color: yellowgreen;
         }
 </style>
-<a href="https://localhost:7199/Account/LoginUser" class="back-link">Logout</a>
+
 <div class="container content-container">
     <div class="student-info">
         <h2>Course Selection</h2>
@@ -89,7 +89,7 @@
     @if (Model.StudentCourseSelections == null || !Model.StudentCourseSelections.Any())
     {
         <div class="alert alert-warning">
-            No available courses for selection.
+            There is no any selected courses.
         </div>
     }
     else
@@ -124,5 +124,5 @@
                 </div>
             </form>
         </div>
-    }
+    }<a href="https://localhost:7199/Account/LoginUser" style="color:darkred" class="back-link">Logout</a>
 </div>
