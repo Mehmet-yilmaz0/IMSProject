@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using NuGet.Protocol.Plugins;
 using SmartCourseSelectorWeb.Models;
+using StudentIMS.Models;
 
 namespace SmartCourseSelectorWeb.Controllers
 {
@@ -17,44 +17,41 @@ namespace SmartCourseSelectorWeb.Controllers
         }
 
         [HttpGet("SelectCourses")]
-        public IActionResult SelectCourses()
+        public async Task<IActionResult> SelectCourses(int id)
         {
             // Tüm dersleri getiriyoruz
-            var courses = _context.Courses.ToList();
-            return View(courses);
+            var course = _context.Courses.ToList();
+            var student = _context.Students
+                                       .Include(s => s.StudentCourseSelections)
+                                           .ThenInclude(sc => sc.Course)
+                                       .Include(s => s.Advisor)
+                                       .FirstOrDefaultAsync(s => s.StudentID == id);
+            var sc = new StudentAndCourse {Course=course,StudentIDI=id };
+
+            return View(sc);
         }
         [HttpPost("SubmitSelectedCourses")]
-        public async Task<IActionResult> SubmitSelectedCourses([FromBody]List<string> selectedCourseIds)
+        public async Task<IActionResult> SubmitSelectedCourses([FromBody] SubmitCoursesRequest request)
         {
-            if (selectedCourseIds == null || !selectedCourseIds.Any())
+           
+
+            if (request == null || request.SelectedCourseIds == null || !request.SelectedCourseIds.Any())
             {
-                // Hiçbir ders seçilmediyse, 400 Bad Request döndür
                 return BadRequest("No courses selected.");
             }
-
-            try
+            // İstekteki veriyi işleyin
+            foreach (var courseId in request.SelectedCourseIds)
             {
-                // Gelen course ID'lerini işleyin (örneğin, veritabanına kaydetme)
-                foreach (var courseId in selectedCourseIds)
-                {
-                    //asd
-                }
+                // Örnek: Veritabanına kayıt işlemi
+                Console.WriteLine($"Student {request.StudentId} selected course {courseId}");
+            }
 
-                // İşlem başarılıysa 200 OK döndür
-                return Ok(new { message = "Courses submitted successfully." });
-            }
-            catch (Exception ex)
-            {
-                // Hata durumunda 500 Internal Server Error döndür
-                return StatusCode(500, $"An error occurred: {ex.Message}");
-            }
+            return Ok(new { Message = "Courses submitted successfully!" });
         }
 
         [HttpGet("CourseSelection")]
         public async Task<IActionResult> CourseSelection(int id)
         {
-           
-           
             var student = await _context.Students
                                          .Include(s => s.StudentCourseSelections)
                                              .ThenInclude(sc => sc.Course)
