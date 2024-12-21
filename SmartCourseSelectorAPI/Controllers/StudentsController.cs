@@ -42,8 +42,6 @@ namespace SmartCourseSelectorWeb.Controllers
             // İstekteki veriyi işleyin
             foreach (var courseId in request.SelectedCourseIds)
             {
-                // Örnek: Veritabanına kayıt işlemi
-                Console.WriteLine($"Student {request.StudentId} selected course {courseId}");
             }
 
             return Ok(new { Message = "Courses submitted successfully!" });
@@ -136,7 +134,7 @@ namespace SmartCourseSelectorWeb.Controllers
         // DELETE: api/Students/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteStudent(int id)
-        {
+        {   
             var student = await _context.Students.FindAsync(id);
             if (student == null)
             {

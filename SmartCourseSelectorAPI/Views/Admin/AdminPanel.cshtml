@@ -1,0 +1,70 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center">Admin Panel</h1>
+
+        <div class="row mt-4">
+            <!-- Student Management -->
+            <div class="col-md-6">
+                <h3>Student Management</h3>
+                <ul class="list-group">
+                    <li class="list-group-item">
+                        <a href="/Admin/AddStudent" class="btn btn-success btn-sm">Add Student</a>
+                        <a href="/Admin/RemoveStudent" class="btn btn-danger btn-sm">Remove Student</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="/Admin/ListStudents" class="btn btn-primary btn-sm">List Students</a>
+                        <a href="/Admin/ViewStudent" class="btn btn-info btn-sm">View Student Info</a>
+                    </li>
+                </ul>
+            </div>
+
+            <!-- Advisor Management -->
+            <div class="col-md-6">
+                <h3>Advisor Management</h3>
+                <ul class="list-group">
+                    <li class="list-group-item">
+                        <a href="/Admin/AddAdvisor" class="btn btn-success btn-sm">Add Advisor</a>
+                        <a href="/Admin/RemoveAdvisor" class="btn btn-danger btn-sm">Remove Advisor</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="/Admin/ListAdvisors" class="btn btn-primary btn-sm">List Advisors</a>
+                        <a href="/Admin/ViewAdvisor" class="btn btn-info btn-sm">View Advisor Info</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row mt-4">
+            <!-- Course Management -->
+            <div class="col-md-12">
+                <h3>Course Management</h3>
+                <ul class="list-group">
+                    <li class="list-group-item">
+                        <a href="/Admin/AddCourse" class="btn btn-success btn-sm">Add Course</a>
+                        <a href="/Admin/RemoveCourse" class="btn btn-danger btn-sm">Remove Course</a>
+                    </li>
+                    <li class="list-group-item">
+                        <a href="/Admin/ListCourses" class="btn btn-primary btn-sm">List Courses</a>
+                        <a href="/Admin/ViewCourse" class="btn btn-info btn-sm">View Course Info</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
